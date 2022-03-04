@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Các Đệ à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Mà sao bọn mày vẫn làm đệ tao`,
+    btnIntro: 'hehe',
+    title: 'Phải chăng các huynh đệ ta đã kết thân từ lúc mới cất tiếng hello chào đời',
+    desc: 'Phải chăng chúng ta là hảo huynhd dệ ',
+    btnYes: 'Các Đệ vẫn là Đệ của Huynh',
+    btnNo: 'Có Cái đầu buồi',
+    question:'Trên thế giới hơn 7 tỉ người mà sao các đệ lại làm đệ tao',
+    btnReply: 'Gửi cho các đệ',
+    reply: 'Làm dệ',
+    mess: 'Đại ca biết mà',
+    messDesc: 'Tối nay 7h đi cháy phố nhé.',
+    btnAccept: 'OK',
 }
