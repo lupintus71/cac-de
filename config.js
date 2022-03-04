@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Các Đệ à!',
+    introTitle: 'Các Đệ à',
     introDesc: `Trái đất vốn lạ thường
     Mà sao bọn mày vẫn làm đệ tao`,
     btnIntro: 'hehe',
@@ -8,9 +8,9 @@ const CONFIG = {
     btnYes: 'Các Đệ vẫn là Đệ của Huynh',
     btnNo: 'Có Cái đầu buồi',
     question:'Trên thế giới hơn 7 tỉ người mà sao các đệ lại làm đệ tao',
-    btnReply: 'Gửi cho các đệ',
-    reply: 'Làm dệ',
+    btnReply: 'Gửi cho đại ca',
+    reply: 'Làm đệ',
     mess: 'Đại ca biết mà',
     messDesc: 'Tối nay 7h đi cháy phố nhé.',
-    btnAccept: 'OK',
+    btnAccept: 'OK Đại ca Tú',
 }
