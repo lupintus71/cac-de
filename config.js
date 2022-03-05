@@ -13,4 +13,5 @@ const CONFIG = {
     mess: 'Đại ca biết mà',
     messDesc: 'Tối nay 7h đi cháy phố nhé.',
     btnAccept: 'OK Đại ca Tú',
+    messLink: 'http://fb.com'
 }
